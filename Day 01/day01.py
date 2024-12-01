@@ -10,7 +10,7 @@ right_list = []
 
 with open(file_path, 'r') as file:
     for line in file:
-        if line.strip():  # Salta le righe vuote
+        if line.strip():  
             left, right = map(int, line.split())
             left_list.append(left)
             right_list.append(right)
