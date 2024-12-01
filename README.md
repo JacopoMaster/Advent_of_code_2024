@@ -3,7 +3,7 @@
 Welcome to the **Advent of Code 2024**! Every day until Christmas, we’ll tackle new coding challenges to spread holiday cheer (and maybe a bit of debugging frustration). You can find the daily puzzles at: [https://adventofcode.com/2024](https://adventofcode.com/2024). 🎁
 
 ### 📂 What's in the Bag?
-This repository will be filled with my Python solutions, neatly organized by day. Each folder is like a little Christmas gift—sometimes easy to open, sometimes wrapped in layers of complexity. 🎁🎅
+This repository will be filled with my Python solutions, neatly organized by day. Each folder is like a little Christmas gift sometimes easy to open, sometimes wrapped in layers of complexity. 🎁🎅
 
 ### 🎅 Instructions
 1. Visit the Advent of Code site and grab your daily puzzle.
