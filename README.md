@@ -14,5 +14,5 @@ This repository will be filled with my Python solutions, neatly organized by day
 - May contain reindeer-themed variable names.  
 - Side effects include sudden bursts of Christmas spirit and cravings for cookies. 🍪
 
-Oh oh oh, Merry Coding and Happy Holidays! 🎅🎄✨
+*Oh oh oh, Merry Coding and Happy Holidays!* 🎅🎄✨
 
