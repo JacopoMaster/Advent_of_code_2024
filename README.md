@@ -13,6 +13,7 @@ This repository will be filled with my Python solutions, neatly organized by day
 ### 🛷 Warning
 - May contain reindeer-themed variable names.  
 - Side effects include sudden bursts of Christmas spirit and cravings for cookies. 🍪
+- As you can see i'll use a lot of christmas emoji 🦌🦌🦌🛷
 
 *Oh oh oh, Merry Coding and Happy Holidays!* 🎅🎄✨
 
